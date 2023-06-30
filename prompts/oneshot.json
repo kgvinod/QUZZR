@@ -1,10 +1,4 @@
-Input:
-{
-   "subject":"Quantum Computing",
-   "num_questions":2
-}
-
-Output:"input":
+"input":
 {
    "subject":"Quantum Computing",
    "num_questions":2
@@ -43,35 +37,3 @@ Output:"input":
    "num_questions":10
 }
 "output":
-{
-   "subject":"Quantum Computing",
-   "quiz":[
-      {
-         "question":"What is the basic unit of quantum information?",
-         "options":{
-            "a":"Neuron",
-            "b":"Byte",
-            "c":"Qubit",
-            "d":"Meters"
-         },
-         "answer":"c"
-      },
-      {
-         "question":"Ability of a quantum system to be in multiple states at the same time is called",
-         "options":{
-            "a":"Superposition",
-            "b":"Binary",
-            "c":"Push-Pull",
-            "d":"Spooky"
-         },
-         "answer":"c"
-      }
-   ]
-}
-
-Input:
-{
-   "subject":"Kerala Tourism",
-   "num_questions":10
-}
-Output:
